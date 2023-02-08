@@ -7,14 +7,16 @@ EN: This is a solution to the [Product preview card component challenge on Front
 The challenge is to build out this Product preview card component and get it looking as close to the design as possible.
 
 ## 🍀 Screenshots
-#### Desktop 
-![](./assets/screenshot-desktop.png) 
-
 #### Mobile - iPhoneSE
 ![](./assets/screenshot-iPhoneSE.png) 
 
 #### Mobile - Samsung S20 Ultra
 ![](./assets/screenshot-SamsungS20Ultra.png)
+
+#### Desktop 
+![](./assets/screenshot-desktop.png) 
+
+![](./assets/button-productpreview.gif)
 
 ## 🍀 Preview site
 [Clique aqui | Click here]()
