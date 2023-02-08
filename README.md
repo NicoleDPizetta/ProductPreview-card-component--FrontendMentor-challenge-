@@ -8,7 +8,7 @@ The challenge is to build out this Product preview card component and get it loo
 
 ## 🍀 Screenshots
 #### Desktop 
-![](./assets/image-product-desktop.jpg) 
+![](./assets/screenshot-desktop.png) 
 
 #### Mobile - iPhoneSE
 ![](./assets/screenshot-iPhoneSE.png) 
