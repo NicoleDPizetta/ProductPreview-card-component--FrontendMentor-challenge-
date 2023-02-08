@@ -19,7 +19,7 @@ The challenge is to build out this Product preview card component and get it loo
 ![](./assets/button-productpreview.gif)
 
 ## 🍀 Preview site
-[Clique aqui | Click here]()
+[Clique aqui | Click here](https://nicoledpizetta.github.io/ProductPreview-card-component--FrontendMentor-challenge-/)
 
 ## 🍀 Tecnologias usadas | Technologies used
 - Semantic HTML5 markup
