@@ -8,13 +8,13 @@ The challenge is to build out this Product preview card component and get it loo
 
 ## 🍀 Screenshots
 #### Desktop 
-![](./screenshots/desktop.png) 
+![](./assets/image-product-desktop.jpg) 
 
 #### Mobile - iPhoneSE
-![](./screenshots/mobile-iPhoneSE.png) 
+![](./assets/screenshot-iPhoneSE.png) 
 
 #### Mobile - Samsung S20 Ultra
-![](./screenshots/mobile-SamsungS20Ultra.png)
+![](./assets/screenshot-SamsungS20Ultra.png)
 
 ## 🍀 Preview site
 [Clique aqui | Click here]()
